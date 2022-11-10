@@ -8,8 +8,8 @@ Nous allons utiliser BS4 et Selenium pour effectuer le scraping. Par ailleurs, n
 
 ## Lancer le programme
 ### En local
-  -Lancer le scraper main.py à l'aide de la commande suivante -> python3 main.py
-  -Lancer jupyterlab et executer les cellules afin d'obtenir l'analyse des données.
+- Lancer le scraper main.py à l'aide de la commande suivante -> python3 main.py
+- Lancer jupyterlab et executer les cellules afin d'obtenir l'analyse des données.
 
 ### Dockerfile
 Pour build le dockerfile -> sudo docker build -t spoticar ./
